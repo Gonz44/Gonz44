@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning more about **ruby, ruby on rails, javascript, react.js, python**
 
-- 👯 I’m looking to collaborate on **on anything :)**
+- 👯 I’m looking to collaborate on ** anything :)**
 
 - 🤝 I’m looking for help with **a mental health app**
 
