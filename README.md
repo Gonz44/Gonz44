@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything you'd like, I am always happy to have a good chat**
 
-- 📫 How to reach me **cryptogon@outlook.com**
+- 📫 How to reach me **onelineofcode@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
