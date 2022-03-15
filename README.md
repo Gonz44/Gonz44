@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Walking Stick](https://walkingstick.herokuapp.com/)
 
-- 🌱 I’m currently learning more about **ruby, ruby on rails, javascript, react.js, python**
+- 🌱 I’m currently learning more about **ruby, ruby on rails, javascript, react.js, python, typescript**
 
 - 👯 I’m looking to collaborate on ** anything :)**
 
